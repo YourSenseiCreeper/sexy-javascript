@@ -1,0 +1,11 @@
+.row {
+    height: 50px;
+    display: flex;
+}
+
+.cell {
+    width: 50px;
+    height: 100%;
+    background-color: #4488ff;
+    border: 1px solid black;
+}
